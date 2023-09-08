@@ -1,7 +1,7 @@
 ### Hi, I'm Majjcom🫰
 
 - 🌱 I’m currently learning Computer Vision
-- 🔭 I'm constantly updating my old project
+- 🛠️ I'm constantly updating my old project
 
 <a href="https://github.com/jstrieb/github-stats">
 <img src="https://github.com/majjcom/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
