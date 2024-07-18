@@ -1,6 +1,6 @@
 ### Hi, I'm Majjcom🫰
 
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently learning Computer Graphics
 - 🛠️ I'm constantly updating my old project
 
 <a href="https://github.com/majjcom/github-stats">
